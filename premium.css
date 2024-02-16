@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: blue;
+    text-align: center;
+    text-shadow: 4px 5px 8px;
+}
+h1:hover{
+    color: aqua;
+
+}
+.btn1:hover{
+    color:red;
+    background-color: aqua;
+}
+.btn1:hover{
+    
+}

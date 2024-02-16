@@ -18,5 +18,5 @@ elseif($temp<=45)
 }
 else
 {
-    echo "Danger!!!!!Temprature??????";
+    echo "Consider taking am umbrela";
 }
